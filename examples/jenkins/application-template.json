@@ -206,7 +206,7 @@
         "source": {
           "type": "Git",
           "git": {
-            "uri": "https://github.com/pieterdauds/nodejs-ex.git"
+            "uri": "https://github.com/alanadiprastyo/nodejs-ex.git"
           }
         },
         "strategy": {
